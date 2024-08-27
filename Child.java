@@ -7,5 +7,6 @@ public class Child extends Parent{
    Child c=new Child();
     System.out.println(c.sname("marsh"));
       System.out.println(c.cname("mello"));
+      
  }
 }
